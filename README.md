@@ -5,7 +5,7 @@ SonarQube with Node" src="./app/assets/repository/icon-repo-sonarnode.svg" />
 
 ## 💻 Project summary
 
-This project is just a study regarding the implementation of SonarQcube in a node project linking to a Docker container
+This project is just a study on the implementation of a Node.js project to use the private SonarQube service linked to a Docker container
 
 ## 🛠 Technologies
 
