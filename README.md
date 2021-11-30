@@ -39,7 +39,7 @@ Project was built using **Node.js**, **Postgres**, **Docker** and the following 
 
 - **[nyc](https://www.npmjs.com/package/nyc)** - Istanbul's state of the art command line interface, with support for: applications that spawn subprocesses and source mapped coverage of Babel and TypeScript projects.
 
--**[Supertest](https://www.npmjs.com/package/supertest)** - HTTP assertions made easy via superagent.
+- **[Supertest](https://www.npmjs.com/package/supertest)** - HTTP assertions made easy via superagent.
 
 ## 📑 How to use
 
