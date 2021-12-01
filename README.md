@@ -92,6 +92,24 @@ And finally to remove all the images you have
 docker rmi $(docker images -q)
 ```
 
+## 🔨 Local Installation
+
+You need [Node.js](https://nodejs.org) version 10 or higher, but if you want to use [Yarn](https://yarnpkg.com/) you can also just have it on your computer to continue.
+
+```bash
+git clone https://github.com/jhonywalkeer/sonarqcube-with-node.git
+
+$ cd sonarqcube-with-node
+$ npm install or yarn install
+```
+
+And now to run our api locally just run the following command:
+
+```bash
+$ cd sonarqcube-with-node
+$ npm dev or yarn dev
+```
+
 ## 📖 License
 
 This project is under license from MIT. See the [LICENSE](LICENSE.md) file for more details.
